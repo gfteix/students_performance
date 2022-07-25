@@ -9,3 +9,5 @@ Using machine learning to predict student's performance.
 Project developed in group with:
 - https://github.com/GuiZampronio (K-Medoids)
 - https://github.com/lucasokada (XGBoost)
+
+Dataset: https://www.kaggle.com/datasets/aljarah/xAPI-Edu-Data
